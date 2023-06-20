@@ -1,0 +1,17 @@
+{
+    "name": "CG.InventorySystem",
+    "rootNamespace": "CG.InventorySystem",
+    "references": [
+        "GUID:1a81dca10f40f494cbfa620018d4eb9f",
+        "GUID:4dd995ad09411cb40a40019504877178"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
